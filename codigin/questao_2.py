@@ -1,5 +1,3 @@
-# Atividade de Algoritmos - problema1_questao2
-
 notas = []
 for i in range(6):
     nota = float(input("Digite a nota do aluno " + str(i + 1) + ": "))
